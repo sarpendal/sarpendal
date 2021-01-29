@@ -6,8 +6,8 @@ and a beginner developer.
 One might describe me with words such as 
 goal-directed, efficient, outgoing, teamplayer and curious.
 
-- 🌱 I’m currently learning C# and CISSP domains
-- ⚡ Fun fact: I've taken a swim in icy lake and diven into a pile of snow!
+- :bulb: I’m currently learning C# and CISSP domains
+- :snowman: Fun fact: I've taken a swim in icy lake and diven into a pile of snow!
 
 
 
