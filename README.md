@@ -2,17 +2,18 @@
 
 
 <img src="https://github.com/sarpendal/sarpendal/blob/main/me_bw.jpg" alt="Black and white picture of Sari" width="20%" align="left">
+
 <p>
 I'm an information technology student at HAMK, 
-and a beginner developer.
+and a beginner programmer.
+<br><br>
 
-
-:bulb: I’m currently learning C# and CISSP domains
+:bulb: I’m currently learning Python, and CISSP domains.
 
 :grey_question: One might describe me with words such as 
 goal-directed, efficient, outgoing, teamplayer and curious.
 
-:snowman: Fun fact: I've taken a swim in icy lake and diven into a pile of snow!
+:snowman: Fun fact: I've taken a swim in an icy lake and diven into a pile of snow...
 </p>
 
                   
