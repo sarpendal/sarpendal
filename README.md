@@ -12,7 +12,7 @@ goal-directed, efficient, outgoing, teamplayer and curious.
 :snowman: Fun fact: I've taken a swim in icy lake and diven into a pile of snow!
 
 
-<img src=https://raw.githubusercontent.com/sarpendal/sarpendal/master/me_bw.jpg" alt="Black and white picture of Sari">
+<img src="https://raw.githubusercontent.com/sarpendal/sarpendal/master/me_bw.jpg" alt="Black and white picture of Sari">
 <img align="right">
                   
 <!--
