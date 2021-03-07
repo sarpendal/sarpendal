@@ -1,5 +1,6 @@
 # Hello!
 
+<p align="left">
 I'm an information technology student at HAMK, 
 and a beginner developer.
 
@@ -10,6 +11,7 @@ and a beginner developer.
 goal-directed, efficient, outgoing, teamplayer and curious.
 
 :snowman: Fun fact: I've taken a swim in icy lake and diven into a pile of snow!
+</p>
 
 
 <img src="https://github.com/sarpendal/sarpendal/blob/main/me_bw.jpg" alt="Black and white picture of Sari" width="20%" align="right">
