@@ -12,8 +12,9 @@ goal-directed, efficient, outgoing, teamplayer and curious.
 :snowman: Fun fact: I've taken a swim in icy lake and diven into a pile of snow!
 
 
-
-
+<img src=https://github.com/sarpendal/sarpendal/blob/206b0f7911f56e67bd9595620cd5eb16156b3f6a/me_bw.jpg" alt="Black and white picture of Sari">
+<img align="right">
+                  
 <!--
 **sarpendal/sarpendal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
