@@ -8,7 +8,7 @@ I'm an information technology student at HAMK,
 and a beginner programmer.
 <br><br>
 
-:bulb: I’m currently learning Python, and CISSP domains.
+:bulb: I’m currently studying web development, python-programming and databases.
 
 :grey_question: One might describe me with words such as 
 goal-directed, efficient, outgoing, teamplayer and curious.
